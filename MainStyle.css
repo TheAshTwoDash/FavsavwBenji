@@ -1,0 +1,7 @@
+/* Use em and Rem for changing the font of texts (instead of px) */
+/* Use % to change the size of blocks* (instead of px)/
+/* CSS is case sensetive so type carfully*/
+/* You can always use the ABC CSS file to help yourself*/
+body{
+    background-color: rgb(245, 163, 163);
+}
